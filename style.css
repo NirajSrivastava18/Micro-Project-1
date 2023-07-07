@@ -15,16 +15,11 @@ body {
 }
 
 .part1 {
-  flex-direction: column;
   margin-left: 130px;
   margin-right: 260px;
-  justify-content: center;
 }
 .part2 {
-  flex-direction: column;
   margin-right: 150px;
-  justify-content: center;
-  margin-top: 20px;
 }
 
 .title {
