@@ -47,6 +47,9 @@ h5 {
   font-weight: 800;
   line-height: 160%;
 }
+.email-address {
+  display: flex;
+}
 input {
   width: 350px;
   height: 50px;
